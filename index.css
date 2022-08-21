@@ -7,9 +7,6 @@ body{
     display: grid; 
     place-items: center;
 }
-#canvas{
-    border: 2px solid;
-}
 article {
     display:block; 
     font-family: Georgia, "Times New Roman", Times, 
