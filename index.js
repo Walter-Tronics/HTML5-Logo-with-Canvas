@@ -45,7 +45,7 @@ window.onload=()=>{
         //scaling the canvas
         ctx.scale(factorValue, factorValue);
         //Drawing the text
-        ctx.fillText("HTML", 31,60);
+        ctx.fillText("HTML", 50,60);
         ctx
         ctx.translate(0, offsetY);
 
