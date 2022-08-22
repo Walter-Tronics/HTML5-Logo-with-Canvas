@@ -41,7 +41,7 @@ window.onload=()=>{
         //saving the context
         ctx.save();
         //clearing the canvas
-        ctx.clearRect(0, 0, 600, 400);
+        ctx.clearRect(0, 0, 280, 400);
         //scaling the canvas
         ctx.scale(factorValue, factorValue);
         //Drawing the text
