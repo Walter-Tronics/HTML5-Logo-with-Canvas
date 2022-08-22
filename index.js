@@ -129,6 +129,6 @@ window.onload=()=>{
     slider.addEventListener('input', function(){
         //calling the scale function
         scaleLogo(slider.value);
-        console.log(slider.value);
+        //console.log(slider.value);
     });
 }
