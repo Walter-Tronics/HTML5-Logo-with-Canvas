@@ -5,6 +5,9 @@
 body{
     height: 100vh;
     display: grid; 
+    -webkit-display: grid;
+    -moz-display: grid;
+    -o-display: grid;
     place-items: center;
 }
 article {
